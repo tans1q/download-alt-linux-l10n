@@ -1,0 +1,7 @@
+polib
+typer
+huggingface_hub
+fasttext
+numpy==1.26.4
+pandas
+fastparquet
